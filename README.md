@@ -4,7 +4,7 @@
 - 💞️ Excited to collaborate on impactful web development projects.  
 - 📫 sakshikuthe336@gmail.com
 - 😄 She/Her  
-- ⚡ I’m an introvert with an extrovert mind!  
+  
 
 <!---
 sak033/sak033 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
